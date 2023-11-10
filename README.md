@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ## Oi eu sou o Samueel!
 
 <div>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelTunes&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelTunes&layout=donut)
 </div>
 
 <div style="display: inline_block"><br>
