@@ -26,6 +26,8 @@ Here are some ideas to get you started:
   <img align="center" height="30" width="70" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" height="30" width="90" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
 </div>
+
+##
  
 <div> 
   <a href="https://www.instagram.com/samuel_tunes/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
