@@ -13,9 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Oi eu sou o Samuel!
-<a href="https://github.com/anuraghazra/convoychat" style="display: inline-block">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelTunes&theme=blue-green&layout=compact&langs_count=8&card_width=320" />
-</a>
 
 <div style="display: inline-block"><br>
   <img align="center" height="30" width="70" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
